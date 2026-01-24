@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: 1.0 (MX Security SignApk)
+SHA-256-Digest-Manifest: HJfu1ZIY3DYYYPC8ELP2hbDbN7sp6GKCESK4v9eYbyA=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: GGf+5viQv8Xay3xR6G/lwjrXpn8sBFkmge4PMjbbIQA=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: P3ynqIdbDmwF1PsNloTMDkK1dQ1IUV/iAEjaKUKMbUg=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: nYCVUgUYBX+1Hg8oo03VH/RXGyADxELRanOWjaL0cAg=
+
+Name: res/drawable-nodpi-v4/default_wallpaper.webp
+SHA-256-Digest: cm7ALwXNhsBwiCTiceIZhsHhok3kk+tA5Yys53DT9D4=
+
+Name: resources.arsc
+SHA-256-Digest: hl+EOIAdSuTG+dHNlSleHJSiFK88oCfGVNBjvXmWjJA=
+

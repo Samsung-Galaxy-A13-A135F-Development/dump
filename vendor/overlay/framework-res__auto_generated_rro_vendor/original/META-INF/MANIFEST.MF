@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 4IHicjheMqM1YOfodhVwFpmPu4mnpbDNlOOHY13h0oA=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: KXPtZBP9ZJT4aUs4ggqLtOJUTC3FoNcQEqzF2uC25xc=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: 5Jm2ACxqJaXI6+dZMZbr3w/JSFuAVKQ/E5ASJ9DfPTI=
+
+Name: res/drawable-nodpi-v4/default_wallpaper.webp
+SHA-256-Digest: csIalOd0XkiWQ/IhMR6AtPtkiCDn8U71UmHec28FCaA=
+
+Name: resources.arsc
+SHA-256-Digest: Fjks4l5UE0z/E0xkuRnu5EMrCPqfJwawZ3Mpmu7hF7s=
+
